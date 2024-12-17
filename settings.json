@@ -1,0 +1,333 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "extensions.ignoreRecommendations": true,
+  "typescript.tsserver.log": "off",
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    ".prettierrc": "json"
+  },
+  "screencastMode.onlyKeyboardShortcuts": true,
+  "cSpell.userWords": [
+    "chakra",
+    "clsx",
+    "Dotenv",
+    "fastify",
+    "Fastify",
+    "feedbackwidget",
+    "Hono",
+    "IUGU",
+    "jupiter",
+    "middlewares",
+    "mixpanel",
+    "monaco",
+    "nestjs",
+    "Omni",
+    "Onboarded",
+    "pallas",
+    "prefetch",
+    "rocketseat",
+    "rotion",
+    "trpc",
+    "TRPC",
+    "unfollow",
+    "Unfollow",
+    "unform",
+    "Unform",
+    "unmark",
+    "upsert"
+  ],
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "cSpell.language": "en,pt",
+  "editor.lineHeight": 26,
+  "material-icon-theme.languages.associations": {
+    "dotenv": "tune"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+
+  "material-icon-theme.files.associations": {
+    "tsconfig.json": "tune",
+    "*.webpack.js": "webpack",
+    "*.proto": "3d",
+    "ormconfig.json": "database"
+  },
+  "material-icon-theme.activeIconPack": "nest",
+  "editor.suggestSelection": "first",
+  "explorer.confirmDelete": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "terminal.integrated.showExitAlert": false,
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  "typescript.suggest.autoImports": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.editor.labelFormat": "short",
+  "editor.fontLigatures": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "liveshare.featureSet": "insiders",
+  "material-icon-theme.folders.associations": {
+    "adapters": "contract",
+    "grpc": "pipe",
+    "kube": "kubernetes",
+    "main": "lib",
+    "websockets": "pipe",
+    "implementations": "core",
+    "protos": "pipe",
+    "entities": "class",
+    "kafka": "pipe",
+    "use-cases": "functions",
+    "migrations": "tools",
+    "schemas": "class",
+    "useCases": "functions",
+    "eslint-config": "tools",
+    "typeorm": "database",
+    "_shared": "shared",
+    "mappers": "meta",
+    "fakes": "mock",
+    "modules": "components",
+    "subscribers": "messages",
+    "domain": "class",
+    "protocols": "contract",
+    "infra": "app",
+    "view-models": "views",
+    "presentation": "template",
+    "dtos": "typescript",
+    "http": "container",
+    "providers": "include",
+    "factories": "class",
+    "repositories": "mappings"
+  },
+  "cSpell.enableFiletypes": [
+    "!asciidoc",
+    "!c",
+    "!cpp",
+    "!csharp",
+    "!go",
+    "!handlebars",
+    "!haskell",
+    "!jade",
+    "!java",
+    "!latex",
+    "!php",
+    "!pug",
+    "!python",
+    "!restructuredtext",
+    "!rust",
+    "!scala",
+    "!scss"
+  ],
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "explorer.compactFolders": false,
+  "git.enableSmartCommit": true,
+  "editor.accessibilitySupport": "off",
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.fontSize": 14,
+  // "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+  "editor.codeActionsOnSave": {
+  
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.semanticHighlighting.enabled": false,
+  "workbench.productIconTheme": "fluent-icons",
+  "gitlens.codeLens.authors.enabled": false,
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "files.exclude": {
+    "**\/CVS": true,
+    "**\/.DS_Store": true,
+    "**\/.hg": true,
+    "**\/.svn": true,
+    "**\/.git": true,
+    // "node_modules": true
+  },
+  "tabnine.experimentalAutoImports": true,
+  "gitlens.codeLens.enabled": false,
+  // "workbench.iconTheme": "monospace-icons",
+  "polacode.transparentBackground": true,
+  "polacode.target": "snippet",
+  
+  "update.mode": "start",
+  "terminal.integrated.gpuAcceleration": "off",
+  "terminal.integrated.defaultProfile.osx": "fish",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "editor.tabSize": 2,
+  "redhat.telemetry.enabled": true,
+  "cmake.options.statusBarVisibility": "visible",
+  "workbench.editor.empty.hint": "hidden",
+  "terminal.integrated.env.linux": {},
+  "omnipascal.searchPath": "c:\\Users\\LUÍS GABRIEL MARCHIÓ\\.vscode\\extensions\\tmssoftware.tmswebcore-2.6.8359\\resources\\coresource\\*",
+  "files.hotExit": "off",
+  "workbench.editor.revealIfOpen": "true",
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.expand": false,
+  "editor.bracketPairColorization.enabled": false,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js, ${capture}.dfm.ts, ${capture}.html",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "*.pas": "${capture}.dfm, ${capture}.html"
+  },
+  "TMS.packages.installed": {
+    "k0webcore": {
+      "name": "TMS WEB Core",
+      "path": "core\\webcore.twcl",
+      "checked": true
+    }
+  },
+  "TMS.desktop.layouts": {
+    "Default Desktop": "{\"dockbox\":{\"id\":\"docklayoutbase\",\"size\":200,\"mode\":\"horizontal\",\"children\":[{\"id\":\"leftlayout\",\"size\":300,\"mode\":\"vertical\",\"children\":[{\"id\":\"+1\",\"size\":200,\"tabs\":[{\"id\":\"structure\"}],\"activeId\":\"structure\"},{\"id\":\"+2\",\"size\":200,\"tabs\":[{\"id\":\"objectinspector\"}],\"activeId\":\"objectinspector\"}]},{\"id\":\"+3\",\"size\":1000,\"tabs\":[{\"id\":\"documentgroup\"}],\"activeId\":\"documentgroup\"},{\"id\":\"rightlayout\",\"size\":250,\"tabs\":[{\"id\":\"toolpalette\"}],\"activeId\":\"toolpalette\"}]},\"floatbox\":{\"id\":\"+4\",\"size\":1,\"mode\":\"float\",\"children\":[]},\"maxbox\":{\"id\":\"+5\",\"size\":1,\"mode\":\"maximize\",\"children\":[]}}"
+  },
+  "TMS.desktop.active": "Default Desktop",
+  "workbench.colorTheme": "Bearded Themanopia (Experimental)",
+  "liveServer.settings.donotShowInfoMsg": true,
+
+  // DESCOMENTAR CASO REMOVA AS ATUALIZAÇÕES DE 21-10-2024
+  // "breadcrumbs.enabled": true,
+  // "editor.minimap.enabled": false,
+  // "workbench.sideBar.location": "right",
+  // "editor.fontFamily": "JetBrains Mono",
+
+
+  // QUALQUER COISA, RETIRAR ESSAS LINHAS DE BAIXO - ATUALIZAÇÃO 21-10-2024
+//   "workbench.colorCustomizations": {
+//     "editor.background": "#21222f",
+//     "sideBar.background": "#21222f",
+//     "activityBar.background": "#21222f",
+//     "actionBar.toggledBackground": "#21222f",
+//     "activityBarTop.background": "#21222f",
+//     "statusBar.background": "#21222f",
+//     "titleBar.activeBackground": "#21222f",
+//     "titleBar.inactiveBackground": "#21222f",
+//     "panel.background": "#21222f",
+//     "editorGroupHeader.tabsBackground": "#21222f",
+//     "editorGroupHeader.tabsBorder": "#21222f",
+//     "editorGroup.border": "#21222f",
+//     "editorGroup.dropBackground": "#21222f",
+//     "editorGroupHeader.noTabsBackground": "#21222f",
+//     "editorGroupHeader.border": "#21222f",
+//     "editorGroup.focusedEmptyBorder": "#21222f",
+//     "editorGroup.emptyBackground": "#21222f",
+//     "editorGroupHeader.tabsEmptyBackground": "#21222f",
+//     "tab.activeBackground": "#303148",
+//     "tab.inactiveBackground": "#21222f",
+//     "tab.inactiveForeground": "#555875",
+//     "tab.border": "#21222f",
+//     "tab.activeBorder": "#21222f",
+//     "tab.unfocusedActiveBorder": "#21222f",
+//     "tab.activeBorderTop": "#21222f",
+//     "tab.unfocusedActiveBorderTop": "#21222f",
+//     "tab.hoverBackground": "#21222f",
+//     "tab.unfocusedHoverBackground": "#21222f",
+//     "tab.hoverBorder": "#21222f",
+//     "tab.unfocusedHoverBorder": "#21222f",
+//     "tab.activeModifiedBorder": "#21222f",
+//     "tab.inactiveModifiedBorder": "#21222f",
+//     "tab.unfocusedActiveModifiedBorder": "#21222f",
+//     "tab.unfocusedInactiveModifiedBorder": "#21222f",
+//     "dropdown.background": "#21222f",
+//     "input.background": "#2e3045",
+//     "input.border": "#3e425e",
+//     "inputOption.activeBackground": "#21222f",
+//     "inputOption.activeBorder": "#21222f",
+//     "inputOption.activeForeground": "#e5e9ff",
+//     "button.background": "#2344ff",
+//     "button.foreground": "#ffffff",
+//     "terminal.background": "#21222f",
+//     "editorLineNumber.activeForeground": "#fdad51",
+//     "menu.background": "#21222f",
+//     "editorPane.background": "#21222f",
+//     "editor.selectionBackground": "#383c52",
+//     "panel.border": "#383c52",
+//     "sideBar.border": "#383c52",
+//     "scrollbar.shadow": "#21222f",
+//     "editorStickyScroll.border": "#2d3042",
+//     "editor.lineHighlightBackground": "#2d3042",
+//     "editorGutter.background": "#21222f",
+//     "editorGutter.modifiedBackground": "#21222f",
+//     "editorGutter.addedBackground": "#21222f",
+//     "editorGutter.deletedBackground": "#21222f",
+//     "statusBarItem.remoteBackground": "#9190ff",
+//     "focusBorder": "#21222f",
+//     "scrollbarSlider.background": "#383c52",
+//     "scrollbarSlider.activeBackground": "#535a7c",
+//     "scrollbarSlider.hoverBackground": "#474c69"
+// },
+"editor.scrollbar.verticalScrollbarSize": 10,
+"editor.scrollbar.horizontalScrollbarSize": 10,
+"editor.scrollbar.vertical": "visible",
+"editor.scrollbar.horizontal": "visible",
+"apc.electron": {
+    // "backgroundColor": "#1a1a1a",
+    "frame": true,
+    "transparent": true,
+    "titleBarStyle": "hiddenInset",
+    "vibrancy": "ultra-dark",
+    "trafficLightPosition": {
+        "x": 15,
+        "y": 13
+    },
+    "trafficLightPositionRight": {
+        "x": 15,
+        "y": 13
+    }
+},
+"workbench.iconTheme": "symbols",
+"workbench.sideBar.location": "right",
+"editor.fontFamily": "Hack Nerd Font, monospace, 'Courier New'",
+"apc.font.family": "GohuFont uni14 Nerd Font Mono",
+"apc.header": {
+    "compact": 22,
+    "fontSize": 12,
+    "fontWeight": "bold"
+},
+"apc.sidebar.titlebar": {
+    "fontSize": 11,
+    "fontWeight": "bold"
+},
+"apc.stylesheet": {
+    ".tabs-container .tab.active": {
+        "border-radius": "7px !important"
+    },
+    ".scrollbar": {
+        "background": "#21222f !important"
+    }
+},
+"css.completion.triggerPropertyValueCompletion": false,
+"github.copilot.chat.terminalChatLocation": "terminal",
+"workbench.editor.editorActionsLocation": "hidden",
+"window.density.editorTabHeight": "compact",
+"editor.minimap.enabled": false,
+"[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"workbench.activityBar.location": "top",
+"workbench.layoutControl.enabled": false,
+"window.commandCenter": false,
+"apc.menubar.compact": true,
+"extensions.experimental.affinity": {
+  "asvetliakov.vscode-neovim": 1
+}
+}
